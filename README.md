@@ -1,9 +1,9 @@
 # Group Project Title
  
 ## Team Members
-- [Alexandre Oliveira](link_to_profile_1)
-- [Daniel Ferreira](link_to_profile_2)
-- [Júlio Guerreiro](link_to_profile_3)
+- [Alexandre Oliveira](https://github.com/alexandreloliveira77)
+- [Daniel Ferreira](https://github.com/cfrsantos7)
+- [Júlio Guerreiro](https://github.com/julioguerreiro)
  
  
 ## Project Overview
