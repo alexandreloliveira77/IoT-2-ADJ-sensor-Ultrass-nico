@@ -58,4 +58,3 @@ Summary of the project and lessons learned.
  
 ## Additional Notes
 Any other information or notes relevant to the project.
-teste
