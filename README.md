@@ -20,7 +20,7 @@ O objetivo deste projeto é criar um sensor de poluição sonora, onde possamos 
   - Identificar os protocolos que vão ser utilizados;
  
 - **Task 3:**
-  - Saber como é construído o diagrama do circuito para medidor de som IoT
+  - Saber como é construído o diagrama do circuito para medidor de som IoT;
   - Configurar a aplicação para monitoramento remoto;
   - Desenvolver o código que recebe a entrada do sensor e mapeia o seu valor em dB e, depois de comparar o volume, enviar para o servidor da aplicação;
  
