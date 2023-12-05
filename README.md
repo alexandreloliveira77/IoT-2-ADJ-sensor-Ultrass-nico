@@ -11,16 +11,18 @@ O objetivo deste projeto é criar um sensor de poluição sonora, onde possamos 
  
 ## Project Tasks and Responsibilities
 - **Task 1:**
-  - Description of the task for Member 1
-  - Subtasks or details related to Task 1 for Member 1
+  - Criar o repositório e adicionar os colaboradores;
+  - Adicionar README.md para realizar o trabalho;
+  - Apresentar a arquitetura e a descrição do projeto;
  
 - **Task 2:**
-  - Description of the task for Member 2
-  - Subtasks or details related to Task 2 for Member 2
+  - Identificar os componentes necessários para realizar o projeto;
+  - Identificar os protocolos que vão ser utilizados;
  
 - **Task 3:**
-  - Description of the task for Member 3
-  - Subtasks or details related to Task 3 for Member 3
+  - Saber como é construído o diagrama do circuito para medidor de som IoT
+  - Configurar a aplicação para monitoramento remoto;
+  - Desenvolver o código que recebe a entrada do sensor e mapeia o seu valor em dB e, depois de comparar o volume, enviar para o servidor da aplicação;
  
 ...
  
