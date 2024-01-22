@@ -9,7 +9,7 @@ Breve resumo do estado atual do projeto, incluindo principais conquistas, desafi
 1. **Desenvolvimento de Hardware:**
    - Conseguimos montar o circuito.
    - 19/01/2024
-   - Acertar as portas do ESP32 com o código. 
+   - Acertar as portas do Arduíno Uno com o código. 
 
 2. **Desenvolvimento de Software:**
    - Conseguimos colocar os sensores a funcionar com o código a correr.
@@ -35,7 +35,7 @@ Breve resumo do estado atual do projeto, incluindo principais conquistas, desafi
    - Arranjar outra aplicação.
 
 3. **Aprimoramentos de Hardware:**
-   - Adicionar outro ESP32.
+   - Adicionar Arduíno Uno.
    - 20/01/2024
 
 ## Desafios e Obstáculos
@@ -44,11 +44,11 @@ O maior desafio é mesmo a comunicação dos dados com a aplicação.
 
 ## Recursos Necessários
 
-ESP32
+Arduíno Uno
 
 ## Próximos Passos
 
-Escolher uma aplicação para reter os dados.
+Usar o Putty para reter os dados.
 
 ## Observações Gerais
 
