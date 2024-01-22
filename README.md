@@ -1,4 +1,4 @@
-# ADJ Sensor sonoro
+# ADJ Sensor Ultrassónico
  
 ## Team Members
 - [Alexandre Oliveira](https://github.com/alexandreloliveira77)
