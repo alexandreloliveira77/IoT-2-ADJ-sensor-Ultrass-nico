@@ -7,6 +7,7 @@
  
  
 ## Project Overview
-O objetivo deste projeto é usar um sensor de movimento junto com um motor para fazer com que um portão abre e feche e que conta as vezes que foi aberto e fechado, vamos usar também dois leds de forma a alertar se o portão está a fechar ou a abrir e dois ESP32 para comunicação dos sensores com a aplicação.
+Propomos a criação de um sistema inteligente de controle de portão, integrando tecnologia avançada para automação e monitoramento. O objetivo principal é empregar um sensor ultrassónico em conjunto com um motor, proporcionando a abertura e o fecho automático do portão. Além disso, implementaremos uma funcionalidade de contagem das operações de abertura e fecho do portão.
+Para aprimorar a experiência e oferecer indicadores visuais claros, serão utilizados dois LEDs que alertarão sobre o status atual do portão, indicando se está em processo de abertura ou de fecho. 
  
  
